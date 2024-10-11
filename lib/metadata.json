@@ -1,6 +1,6 @@
 {
   "vaultName": "Ebberon",
-  "lastExport": 1728647666155,
+  "lastExport": 1728648117448,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon sizing-readable check-color check-bg wotc-beyond",
   "useCustomHeadContent": false,
@@ -98,109 +98,109 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 11190,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
@@ -212,61 +212,61 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 707942,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 29386,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 2674,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/media/favicon.ico": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 45182,
       "exportedPath": "lib/media/favicon.ico",
       "dependencies": []
     },
     "Home.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 687,
       "exportedPath": "home.html",
       "dependencies": []
     },
     "DM/Sessions/Session 0/0. Rules and Expectations.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 16533,
       "exportedPath": "dm/sessions/session-0/0.-rules-and-expectations.html",
       "dependencies": []
     },
     "DM/Sessions/Session 0/1. Welcome to Eberron.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 14530,
       "exportedPath": "dm/sessions/session-0/1.-welcome-to-eberron.html",
       "dependencies": [
@@ -278,7 +278,7 @@
       ]
     },
     "DM/Sessions/Session 0/2. Eberron's History.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 15915,
       "exportedPath": "dm/sessions/session-0/2.-eberron's-history.html",
       "dependencies": [
@@ -295,7 +295,7 @@
       ]
     },
     "DM/Sessions/Session 0/3. Eberron's Places.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 19967,
       "exportedPath": "dm/sessions/session-0/3.-eberron's-places.html",
       "dependencies": [
@@ -304,7 +304,7 @@
       ]
     },
     "DM/Sessions/Session 0/4. Eberron's People.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 7429,
       "exportedPath": "dm/sessions/session-0/4.-eberron's-people.html",
       "dependencies": [
@@ -319,19 +319,19 @@
       ]
     },
     "DM/Sessions/Session 0/5. Developing Your Backstory.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 40567,
       "exportedPath": "dm/sessions/session-0/5.-developing-your-backstory.html",
       "dependencies": []
     },
     "DM/Sessions/Session 0/6. Getting Started.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 6151,
       "exportedPath": "dm/sessions/session-0/6.-getting-started.html",
       "dependencies": []
     },
     "DM/Sessions/Session 0/Hook.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 12224,
       "exportedPath": "dm/sessions/session-0/hook.html",
       "dependencies": [
@@ -340,169 +340,169 @@
       ]
     },
     "DM/Sessions/Session 0/Session 0.md": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 251,
       "exportedPath": "dm/sessions/session-0/session-0.html",
       "dependencies": []
     },
     "lib/media/image-eberron-cover-art1.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 8989095,
       "exportedPath": "lib/media/image-eberron-cover-art1.png",
       "dependencies": []
     },
     "lib/media/image-eberron-magic-everywhere.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 5162673,
       "exportedPath": "lib/media/image-eberron-magic-everywhere.png",
       "dependencies": []
     },
     "lib/media/image-eberron-twist.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 4465244,
       "exportedPath": "lib/media/image-eberron-twist.png",
       "dependencies": []
     },
     "lib/media/image-eberron-pulp-adventure.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 9729098,
       "exportedPath": "lib/media/image-eberron-pulp-adventure.png",
       "dependencies": []
     },
     "lib/media/image-eberron-dragonmarks.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 1107460,
       "exportedPath": "lib/media/image-eberron-dragonmarks.png",
       "dependencies": []
     },
     "lib/media/image-eberron-creation-myth.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3039094,
       "exportedPath": "lib/media/image-eberron-creation-myth.png",
       "dependencies": []
     },
     "lib/media/image-eberron-age-of-demons.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 5090408,
       "exportedPath": "lib/media/image-eberron-age-of-demons.png",
       "dependencies": []
     },
     "lib/media/image-eberron-age-of-giants.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 320375,
       "exportedPath": "lib/media/image-eberron-age-of-giants.png",
       "dependencies": []
     },
     "lib/media/image-eberron-age-of-monsters.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 514706,
       "exportedPath": "lib/media/image-eberron-age-of-monsters.png",
       "dependencies": []
     },
     "lib/media/image-eberron-age-of-humanity.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 10494937,
       "exportedPath": "lib/media/image-eberron-age-of-humanity.png",
       "dependencies": []
     },
     "lib/media/image-eberron-war-of-the-mark.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 2496366,
       "exportedPath": "lib/media/image-eberron-war-of-the-mark.png",
       "dependencies": []
     },
     "lib/media/eberron-image-galifar.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 622302,
       "exportedPath": "lib/media/eberron-image-galifar.png",
       "dependencies": []
     },
     "lib/media/image-eberron-the-silver-crusade.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 181568,
       "exportedPath": "lib/media/image-eberron-the-silver-crusade.png",
       "dependencies": []
     },
     "lib/media/image-eberron-the-last-war1.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 435864,
       "exportedPath": "lib/media/image-eberron-the-last-war1.png",
       "dependencies": []
     },
     "lib/media/image-eberron-mournland-wall.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 2452032,
       "exportedPath": "lib/media/image-eberron-mournland-wall.png",
       "dependencies": []
     },
     "lib/media/map-eberron.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 1025018,
       "exportedPath": "lib/media/map-eberron.png",
       "dependencies": []
     },
     "lib/media/map-khorvaire.webp": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 17605866,
       "exportedPath": "lib/media/map-khorvaire.webp",
       "dependencies": []
     },
     "lib/media/image-density-humans.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 4051655,
       "exportedPath": "lib/media/image-density-humans.png",
       "dependencies": []
     },
     "lib/media/image-density-half-elves.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3835023,
       "exportedPath": "lib/media/image-density-half-elves.png",
       "dependencies": []
     },
     "lib/media/image-density-half-orcs.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3600348,
       "exportedPath": "lib/media/image-density-half-orcs.png",
       "dependencies": []
     },
     "lib/media/image-density-halflings.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3661223,
       "exportedPath": "lib/media/image-density-halflings.png",
       "dependencies": []
     },
     "lib/media/image-density-gnomes.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3731822,
       "exportedPath": "lib/media/image-density-gnomes.png",
       "dependencies": []
     },
     "lib/media/image-density-elves.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3700823,
       "exportedPath": "lib/media/image-density-elves.png",
       "dependencies": []
     },
     "lib/media/image-density-dwarves.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 531836,
       "exportedPath": "lib/media/image-density-dwarves.png",
       "dependencies": []
     },
     "lib/media/image-density-goblinoids.png": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 3545708,
       "exportedPath": "lib/media/image-density-goblinoids.png",
       "dependencies": []
     },
     "lib/media/image-newsroom-of-the-korranberg-chronicle.webp": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 618750,
       "exportedPath": "lib/media/image-newsroom-of-the-korranberg-chronicle.webp",
       "dependencies": []
     },
     "lib/media/image-thalia-ir'zannath-in-her-office.webp": {
-      "modifiedTime": 1728647666155,
+      "modifiedTime": 1728648117448,
       "sourceSize": 507610,
       "exportedPath": "lib/media/image-thalia-ir'zannath-in-her-office.webp",
       "dependencies": []
